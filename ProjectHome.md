@@ -1,0 +1,1 @@
+Uses the TVRage API to find out when your show is on next and when it played last.
